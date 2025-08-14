@@ -28,6 +28,12 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				search: {
+					card: 'hsl(var(--search-card))',
+					'card-hover': 'hsl(var(--search-card-hover))',
+					highlight: 'hsl(var(--search-highlight))',
+					'text-secondary': 'hsl(var(--search-text-secondary))'
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
